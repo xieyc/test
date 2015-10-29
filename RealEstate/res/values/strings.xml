@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Real Estate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Property List</string>
+    <string name="title_section2">Starred</string>
+    <string name="title_section3">Recent Sales</string>
+    <string name="title_activity_main11">MainActivity</string>
+
+</resources>
